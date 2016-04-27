@@ -1,6 +1,4 @@
-file.txt
-input.txt
-output.txt
+*.txt
 a.out
 
 # For emacs
