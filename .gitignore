@@ -4,3 +4,6 @@ a.out
 # For emacs
 \#*\#
 .#*
+
+# For macbook
+.DS_Store
